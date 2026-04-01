@@ -1,0 +1,15 @@
+name = "BesselBases"
+uuid = "a14945da-3afb-4a63-a55c-a703d7d003ec"
+version = "0.1.0"
+authors = ["Erik Schnetter <schnetter@gmail.com>"]
+
+[deps]
+FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+
+[compat]
+FastGaussQuadrature = "1.1.0"
+LinearAlgebra = "1.12.0"
+SpecialFunctions = "2.7.2"
+julia = "1.10"
