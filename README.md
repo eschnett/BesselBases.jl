@@ -4,6 +4,7 @@ Expand functions into [spherical Bessel
 functions](https://en.wikipedia.org/wiki/Bessel_function#Spherical_Bessel_functions).
 
 [![CI](https://github.com/eschnett/BesselBases.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/eschnett/BesselBases.jl/actions/workflows/CI.yml)
+[![codecov](https://codecov.io/gh/eschnett/BesselBases.jl/graph/badge.svg?token=9JIFIF1423)](https://codecov.io/gh/eschnett/BesselBases.jl)
 
 ## Overview
 
